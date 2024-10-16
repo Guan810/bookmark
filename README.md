@@ -1,3 +1,4 @@
+- [免费在线AI一键生成PPT](https://aipptmaker.ai/cn) #llm#tools
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/) #llm
 
 # About
